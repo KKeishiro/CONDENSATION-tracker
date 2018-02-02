@@ -1,5 +1,6 @@
 # CONDENSATION-tracker
-Object tracking with CONDENSATION tracker
+
+This is the exercise that were given in Computer Vision course at ETH Zurich.
 
 # Description
 ![image](https://user-images.githubusercontent.com/29389892/35713164-209bd6f6-07c6-11e8-90cb-d531647e9e13.png)
